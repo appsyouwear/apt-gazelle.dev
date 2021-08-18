@@ -1,0 +1,6 @@
+Package: gaz
+Version: 0.0.4
+Maintainer: awear@appsyouwear.com
+Architecture: amd64
+Homepage: https://appsyouwear.com
+Description: A program that prints hello

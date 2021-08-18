@@ -1,0 +1,24 @@
+Package: gaz
+Version: 0.0.4
+Architecture: amd64
+Maintainer: awear@appsyouwear.com
+Filename: ./gaz_0.0.4_amd64.deb
+Size: 7768240
+MD5sum: 8a90807295b5e8bc78c4ab2b9d4bb317
+SHA1: 94c3e821cec7c4636d57533d9fe3ad4f538da0d9
+SHA256: e5645c35bab66cbf0263c4482f8ada0f4f37c54f009fa9ba9478398a0dd57fcc
+Homepage: https://appsyouwear.com
+Description: A program that prints hello
+
+Package: gaz
+Version: 0.0.4
+Architecture: arm64
+Maintainer: awear@appsyouwear.com
+Filename: ./gaz_0.0.4_arm64.deb
+Size: 3731292
+MD5sum: b078acab7ca7ab34624e3974220b734a
+SHA1: ae37dccc6fa94ea2cc61943e462487f80b3789a7
+SHA256: e7afc40647fbde414df696ca875f3882d4a3120e79474867c10da239576ec37f
+Homepage: https://appsyouwear.com
+Description: A program that prints hello
+
